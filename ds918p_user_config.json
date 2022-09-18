@@ -4,13 +4,11 @@
     "mac1": "001132C7065E"
     },
   "synoinfo": {
-    "maxlanport": "2"
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no",
-    "esataportcfg": "0x0",
+    "maxlanport": "2",
+    "maxdisks": "16",
     "internalportcfg": "0x3FFFF",
-    "usbportcfg":"0x0",
-    "maxdisks": "16"
+    "esataportcfg": "0x0",
+    "usbportcfg":"0x0"
     },
   "ramdisk_copy": {},
   "extensions": []
